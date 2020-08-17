@@ -8,7 +8,7 @@
 Write a C++ code to take two linked lists, and returns true if the linked lists are disjoint, i.e. have no elements in common.
 
 ### Question 2
-![BinaryTree](https://github.com/alialhousseini/Cpp-LAB-Exercises/tree.png)
+![BinaryTree](https://github.com/alialhousseini/Cpp-LAB-Exercises/avl.PNG)
 Given the above binary tree, write a program that do the following:
 - Print the nodes in a preorder sequence and while printing the preorder, insert the nodes into a second binary tree.
 - Print the nodes in a postorder sequence and while printing the postorder, insert the nodes into a second binary tree.
