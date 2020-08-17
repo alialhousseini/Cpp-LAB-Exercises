@@ -1,8 +1,8 @@
 # Cpp-LAB-Exercises
 
-## In this repo I implemented C++ Exersices and Solutions of the course of C++.
-## The labs are from many universities all around the world (USA,Lebanon,Egypt and Marroco).
-## Used IDE: Code::Blocks 17.3
+### In this repo I implemented C++ Exersices and Solutions of the course of C++.
+### The labs are from many universities all around the world (USA,Lebanon,Egypt and Marroco).
+### Used IDE: Code::Blocks 17.3
 
 ### Question 1
 Write a C++ code to take two linked lists, and returns true if the linked lists are disjoint, i.e. have no elements in common.
